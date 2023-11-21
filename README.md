@@ -24,9 +24,12 @@ Dependencies:
 4.	Scikit-learn
 5.	Matplotlib
 6.	Seaborn
+
+   
 Usage:
 1.	Clone the repository.
 2.	Install the required dependencies using pip install -r requirements.txt.
 3.	Open and run the customer_segmentation.ipynb notebook in a Jupyter environment.
+   
 
 Feel free to explore, modify, and adapt the code for your specific use case. Your feedback and contributions are welcome!
